@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Sharon
+ * @author Sathvika
  */
 public class funitureck extends javax.swing.JFrame {
 

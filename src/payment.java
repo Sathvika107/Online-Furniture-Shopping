@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Sharon
+ * @author Sathvika
  */
 public class payment extends javax.swing.JFrame {
 

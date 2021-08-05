@@ -13,7 +13,7 @@ import java.awt.Color;
 
 /**
  *
- * @author Sharon
+ * @author Sathvika
  */
 public class viewF extends javax.swing.JFrame {
 

@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Sharon
+ * @author Sathvika
  */
 public class chair extends javax.swing.JFrame {
 

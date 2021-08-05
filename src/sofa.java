@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Sharon
+ * @author Sathvika
  */
 public class sofa extends javax.swing.JFrame {
 

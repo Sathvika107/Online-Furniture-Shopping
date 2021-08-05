@@ -7,7 +7,7 @@ package java.awt;
 
 /**
  *
- * @author Sharon
+ * @author Sathvika
  */
 public class color {
     
